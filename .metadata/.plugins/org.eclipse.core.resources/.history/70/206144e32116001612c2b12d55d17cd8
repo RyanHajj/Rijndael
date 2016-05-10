@@ -1,0 +1,25 @@
+
+public class BinaryToHex {
+
+	private String[][] hexArray = new String[16][16];
+	private String s;
+	
+	
+	
+	public String[][] BinaryToHex(String s)
+	{
+		String test = "00101100010111110000";
+		// line to read String
+		
+		// Line to read and take 4 binary values and convert into hexa String
+		for (int i = 0; i < test.length(); i ++)
+		{
+			String temp = "";
+		}
+		// line to add them into a string
+		// line to take 2 of each and put them into 1 spot of the array
+		// return array
+		return null;
+	}
+	
+}
