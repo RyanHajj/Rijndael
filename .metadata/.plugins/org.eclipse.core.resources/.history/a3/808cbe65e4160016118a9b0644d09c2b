@@ -111,6 +111,7 @@ public class BinaryToHex {
 				hexa += "f";
 			}
 
+			
 			hexCount = 0;
 		}
 		
